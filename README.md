@@ -1,5 +1,7 @@
 ### Hi there 👋
-**Glad to see you here!** :star_struck:
+**Glad to see you here!** :star_struck: <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/codercat.jpg' width='300"'>
+<br>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
