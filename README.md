@@ -2,7 +2,9 @@
 **Glad to see you here!** :star_struck: 
 <br>
 <br>
-<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/codercat.jpg' width='300"'>
+<p align="center">
+  <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/codercat.jpg' width='300"'>
+</p>
 <br>
 <br>
 <p align="center">
