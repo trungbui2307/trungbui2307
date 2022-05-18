@@ -1,4 +1,5 @@
 ### Hi there 👋
+**Glad to see you here!** :star_struck:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
