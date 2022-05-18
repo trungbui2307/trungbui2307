@@ -1,5 +1,8 @@
-### Hi there 👋
-**Glad to see you here!** :star_struck: <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/codercat.jpg' width='300"'>
+### Hi there 👋, I'm Manh-Trung BUI
+**Glad to see you here!** :star_struck: 
+<br>
+<br>
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/codercat.jpg' width='300"'>
 <br>
 <br>
 <p align="center">
