@@ -12,4 +12,6 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,powershell,grafana,flask,py,django,bash,aws, linux" />
   </a>
 </p>
-<a href="https://app.daily.dev/yaiba2307"><img src="https://github.com/trungbui2307/trungbui2307/blob/main/devcard.svg" width="400" alt="Manh Trung BUI's Dev Card"/></a>
+<p align="center">
+  <a href="https://app.daily.dev/yaiba2307"><img src="https://github.com/trungbui2307/trungbui2307/blob/main/devcard.svg" width="400" alt="Manh Trung BUI's Dev Card"/></a>
+</p>
