@@ -3,11 +3,6 @@
 <br>
 <br>
 <p align="center">
-  <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/codercat.jpg' width='300"'>
-</p>
-<br>
-<br>
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,powershell,grafana,flask,py,django,bash,aws, linux" />
   </a>
