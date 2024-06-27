@@ -8,5 +8,5 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://app.daily.dev/yaiba2307"><img src="https://github.com/trungbui2307/trungbui2307/blob/main/devcard.svg" width="400" alt="Manh Trung BUI's Dev Card"/></a>
+  <a href="https://app.daily.dev/yaiba2307"><img src="https://api.daily.dev/devcards/v2/IYugIwnIsEL4O3C8dgVjl.png?type=default&r=8cp" width="356" alt="Manh Trung BUI's Dev Card"/></a>
 </p>
